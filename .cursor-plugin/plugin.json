@@ -1,0 +1,21 @@
+{
+  "name": "sailpoint-endpoint-governance",
+  "displayName": "SailPoint Endpoint Governance",
+  "version": "0.1.0",
+  "description": "SailPoint Endpoint Governance: to enable it, please reach out to your administrator. This listing runs nothing and sends no data.",
+  "author": {
+    "name": "SailPoint",
+    "url": "https://www.sailpoint.com"
+  },
+  "homepage": "https://www.sailpoint.com",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": [
+    "sailpoint",
+    "governance",
+    "audit",
+    "mcp",
+    "security",
+    "compliance"
+  ],
+  "repository": "https://github.com/sailpoint-oss/cursor-sailpoint-endpoint-governance"
+}
